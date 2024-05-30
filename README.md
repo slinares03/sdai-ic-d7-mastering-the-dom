@@ -4,17 +4,24 @@
 
 ---
 
-## Description
+## Description  📄
 
 Debugging or troubleshooting a problem is a core skill for all developers. Debugging allows us to find and resolve errors, bugs, or other unexpected behavior. It helps maintain high-quality code by catching issues early in the development process and reduces the need for frequence maintenance and updates.
 
 ---
 
-## Learning Outcomes
+## Developer Objectives 📋
 
 1. Select HTML elements with Javascript
 2. Manipulate selected elements by changing text content and removing them.
 3. Utilize Event Listeners to respond to click events.
+
+---
+
+## Codespaces Guidance 📄
+Should you need guidance on how to fork, open, edit, and maintain your codespaces, please use the link below by right clicking and opening in a new tab.  
+
+[GitHub Codespaces Guidance](https://gist.github.com/JohnWP8253/4fff80f43d07a04ee3f1514c0a1d354a)
 
 ---
 
