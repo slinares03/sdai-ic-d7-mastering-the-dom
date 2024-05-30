@@ -73,3 +73,11 @@ document.getElementById('cat-1-button').addEventListener('click', () => {
   cat.remove()
 })
 ```
+---
+
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d7-mastering-the-dom/tree/solution).
