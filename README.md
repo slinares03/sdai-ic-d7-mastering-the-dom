@@ -6,7 +6,7 @@
 
 ## Description  📄
 
-Debugging or troubleshooting a problem is a core skill for all developers. Debugging allows us to find and resolve errors, bugs, or other unexpected behavior. It helps maintain high-quality code by catching issues early in the development process and reduces the need for frequence maintenance and updates.
+Debugging or troubleshooting a problem is a core skill for all developers. Debugging allows us to find and resolve errors, bugs, or other unexpected behavior. It helps maintain high-quality code by catching issues early in the development process and reduces the need for frequent maintenance and updates.
 
 ---
 
