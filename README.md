@@ -65,7 +65,7 @@ document.getElementById('cat-1-button').addEventListener('click', () => {
 ```
 Either is fine. Now create two more like the one you just created but for the other two ids. Make sure to also update the `console.log()` to reflect which cat button got clicked. Make sure to click the buttons to test them out.
 
-[ ] Finally let's make it so if we click the adopt button it will remove whichever cat you clicked and a small alert will pop up. Make sure to update the other two cats as well.
+[ ] Moving on let's make it so if we click the adopt button it will remove whichever cat you clicked and a small alert will pop up. Make sure to update the other two cats as well.
 ```
 document.getElementById('cat-1-button').addEventListener('click', () => {
   const cat = document.getElementById('cat-1')
@@ -73,6 +73,9 @@ document.getElementById('cat-1-button').addEventListener('click', () => {
   cat.remove()
 })
 ```
+
+[ ] Finally, after verifying your events with `console.log()` and ensuring everything is works, remove the `console.log` statements before submitting/presenting your code.
+
 ---
 
 ### Solution codebase 👀
